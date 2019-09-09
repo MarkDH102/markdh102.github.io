@@ -1510,8 +1510,8 @@ body {
   background-color: #2e2e2e;
 }
 .cid-rAIHGxZ7lm {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #efefef;
 }
 .cid-rAIHGxZ7lm P {
@@ -1521,6 +1521,27 @@ body {
   padding-top: 15px;
   padding-bottom: 15px;
   background-color: #ffffff;
+}
+.cid-rBzz90mrHh {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rBzz90mrHh .title {
+  margin-bottom: 2rem;
+}
+.cid-rBzz90mrHh .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rBzz90mrHh a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rBzz90mrHh a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-rBzz90mrHh textarea.form-control {
+  min-height: 188px;
 }
 .cid-rBe4NVa5Bq {
   padding-top: 15px;
